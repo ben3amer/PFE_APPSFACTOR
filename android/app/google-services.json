@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "778246110146",
+    "firebase_url": "https://pfe-appsfactor.firebaseio.com",
+    "project_id": "pfe-appsfactor",
+    "storage_bucket": "pfe-appsfactor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778246110146:android:4e0f866bc54bea0e94345b",
+        "android_client_info": {
+          "package_name": "com.medaminbenamer.pfe_appsfactor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778246110146-spmeprpmh4qdotlr2lppuguua3u0esqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medaminbenamer.pfe_appsfactor",
+            "certificate_hash": "b099cf6af41319a91191e6699926da0f9593ebe1"
+          }
+        },
+        {
+          "client_id": "778246110146-735iuuquoarttrm8jm4v81846vmvghek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA38DW3TyodJYxc8Ev8FQilx0_CBnNq20Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778246110146-735iuuquoarttrm8jm4v81846vmvghek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+keytool -list -v -keystore "C:\Users\MOHAMED AMINE\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+Nom d'alias : androiddebugkey
+Date de création : 19 févr. 2020
+Type d'entrée : PrivateKeyEntry
+Longueur de chaîne du certificat : 1
+Certificat[1]:
+Propriétaire : C=US, O=Android, CN=Android Debug
+Emetteur : C=US, O=Android, CN=Android Debug
+Numéro de série : 1
+Valide du : Wed Feb 19 12:25:58 WAT 2020 au : Fri Feb 11 12:25:58 WAT 2050
+Empreintes du certificat :
+         MD5 : 92:B8:DB:12:6A:9D:7B:86:67:F4:2E:E0:09:FD:76:0C
+         SHA1 : B0:99:CF:6A:F4:13:19:A9:11:91:E6:69:99:26:DA:0F:95:93:EB:E1
+         SHA256 : 45:36:DD:E7:09:2C:2D:3D:59:C6:61:28:96:5B:C2:CC:F3:53:67:EF:AB:67:FC:6D:F8:51:45:05:C3:71:96:AF
+Nom de l'algorithme de signature : SHA1withRSA
+Algorithme de clé publique du sujet : Clé RSA 2048 bits
+Version : 1
+
+Warning:
+Le fichier de clés JKS utilise un format propriétaire. Il est recommandé de migrer vers PKCS12, qui est un format standard de l'industrie en utilisant "keytool -importkeystore -srckeystore C:\Users\MOHAMED AMINE\.android\debug.keystore -destkeystore C:\Users\MOHAMED AMINE\.android\debug.keystore -deststoretype pkcs12".
